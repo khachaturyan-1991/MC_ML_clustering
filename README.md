@@ -1,2 +1,2 @@
 # MC_ML_clustering
-Model trained to predict behaviour of a cell based on its nearest neighbor surraunding. The model is trained on data produced by 2D sising model with the use of the code https://rajeshrinet.github.io/blog/2014/ising-model/
+Model trained to predict behaviour of a cell based on its nearest neighbor surraunding. The model is trained on data produced by 2D sising model with the use of the code https://rajeshrinet.github.io/blog/2014/ising-model/ . After the model is trained, it runs several simulation to simulate cluster growth. The clusters are then identified with use of DBSCAN and big cluster are counted for several simulatin steps.
